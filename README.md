@@ -42,9 +42,10 @@ The **Google Advanced Data Analytics Certificate** is a rigorous, hands-on progr
 |--------|-------------|------------|------|
 | **1. Wayz Churn Prediction: Project Proposal** | Plan and Provide: Workflows, PACE strategy document, Project proposal |  | [View Project](link_here) |
 | **2,3. Wayz Churn Prediction: EDA** | Performed EDA and statistical analysis on a bike-share dataset to identify rider behavior and trends. | Python, Pandas, Seaborn, Matplotlib | [View Project](link_here) |
-| **4. A/B Testing Analysis** | Applied hypothesis testing and statistical inference on experimental data. | Python, SciPy, Statsmodels | [View Project](link_here) |
+| **4. A/B Testing Analysis** | Applied hypothesis testing and statistical inference on experimental data. | Python, SciPy, Statsmodels | [View Project](link_here) <!--
+|
 | **5. Capstone: Real-World Business Case** | End-to-end project applying the data science process on a real-world dataset. Includes problem scoping, EDA, modeling, and presenting insights. | Python, SQL, Jupyter Notebook, ML | [View Project](link_here) |
-<!-- (a reference style link.) -->
+ -->
 
 ---
 
