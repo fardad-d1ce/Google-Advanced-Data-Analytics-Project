@@ -28,11 +28,11 @@ The **Google Advanced Data Analytics Certificate** is a rigorous, hands-on progr
 
 ## 🧰 Skills Gained
 
-✔️ Data wrangling and preprocessing  
-✔️ Exploratory Data Analysis (EDA)  
-✔️ Statistical testing and evaluation  
+✔️ Data wrangling and preprocessing
+✔️ Exploratory Data Analysis (EDA) using `pandas`,`matplotlib`, `seaborn`
+✔️ Statistical testing and evaluation using `scipy.stats` 
 ✔️ Building and tuning ML models with `scikit-learn`  
-✔️ Communicating insights with visualizations  
+✔️ Communicating insights and visualizations  
 
 ---
 
@@ -50,19 +50,19 @@ The **Google Advanced Data Analytics Certificate** is a rigorous, hands-on progr
 
 ## 🛠 Tools & Technologies
 
-- **Programming**: Python, SQL  
+- **Programming**: Python 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels, SciPy  
 - **Environments**: Jupyter Notebooks, Google Colab  
-- **Other Tools**: Git, GitHub, BigQuery, Tableau (if used), VS Code  
+- **Other Tools**: Tableau (not in this very project)
 
 ---
 
 ## 📫 Contact
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourname)
-- **Email**: your.email@example.com
-- **Portfolio Website (optional)**: [your-portfolio.com](https://your-portfolio.com)
+- **LinkedIn**: [Fardad Pouran](https://www.linkedin.com/in/fardad-pouran/)
+- **Email**: fpouranph at gmail [dot] com
+<!-- - **Portfolio Website (optional)**: [your-portfolio.com](https://your-portfolio.com) -->
 
 ---
 
-> *This portfolio is part of my journey to becoming a data professional. All projects here are based on real-world scenarios and publicly available datasets provided by Google and other open data sources.*
+> *This portfolio is part of my journey to becoming a data professional. Projects here are realistic scenarios and are based on publicly available datasets provided by Google with fictitious names*
