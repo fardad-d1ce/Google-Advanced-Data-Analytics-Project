@@ -44,7 +44,7 @@ The **Google Advanced Data Analytics Certificate** is a rigorous, hands-on progr
 | **[2,3. Wayz Churn Prediction: EDA](https://github.com/fardad-d1ce/Google-Advanced-Data-Analytics-Project/blob/74c56b37f174a5323753632482045b85677a3732/3.%20EDA%3B%20Waze%20project%20lab.ipynb)** | Performed EDA and statistical analysis on a bike-share dataset to identify rider behavior and trends. | Python, pandas, seaborn, matplotlib |
 | **4. A/B Testing Analysis** | Applied hypothesis testing and statistical inference on experimental data. | Python, SciPy, statsmodels | 
 | **5. Logistic Regression** | Logistic Regression to explain and predict churning. | Python, SciPy, statsmodels, scikit-learn | 
-| **[6. Machine Learning]('6. Machine Leaning_ Waze Project')** | Fitting, Evaluation, and Comparing xgboost and Random Forest models | Python, scikit-learn, xgboost | 
+| **[6. Machine Learning](6. Machine Leaning_ Waze Project)** | Fitting, Evaluation, and Comparing xgboost and Random Forest models | Python, scikit-learn, xgboost | 
 <!-- | **5. Capstone: Real-World Business Case** | End-to-end project applying the data science process on a real-world dataset. Includes problem scoping, EDA, modeling, and presenting insights. | Python, SQL, Jupyter Notebook, ML |  -->
 
 
