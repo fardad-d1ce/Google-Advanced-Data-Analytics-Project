@@ -41,17 +41,19 @@ The **Google Advanced Data Analytics Certificate** is a rigorous, hands-on progr
 | Project | Description | Tools Used |
 |--------|-------------|------------|
 | **[1. Project Proposal](https://github.com/fardad-d1ce/Google-Advanced-Data-Analytics-Project/blob/802fbfe0d96bf57580d549c44093f8d71ec7b59d/1.%20Project%20Proposal.pdf)** | Plan and Provide: Workflows, Project Proposal  | PACE Strategy |
-| **[2,3. Wayz Churn Prediction: EDA](https://github.com/fardad-d1ce/Google-Advanced-Data-Analytics-Project/blob/74c56b37f174a5323753632482045b85677a3732/3.%20EDA%3B%20Waze%20project%20lab.ipynb)** | Performed EDA and statistical analysis on a bike-share dataset to identify rider behavior and trends. | Python, Pandas, Seaborn, Matplotlib |
-| **4. A/B Testing Analysis** | Applied hypothesis testing and statistical inference on experimental data. | Python, SciPy, Statsmodels | 
+| **[2,3. Wayz Churn Prediction: EDA](https://github.com/fardad-d1ce/Google-Advanced-Data-Analytics-Project/blob/74c56b37f174a5323753632482045b85677a3732/3.%20EDA%3B%20Waze%20project%20lab.ipynb)** | Performed EDA and statistical analysis on a bike-share dataset to identify rider behavior and trends. | Python, pandas, seaborn, matplotlib |
+| **4. A/B Testing Analysis** | Applied hypothesis testing and statistical inference on experimental data. | Python, SciPy, statsmodels | 
+| **5. Logistic Regression** | Logistic Regression to explain and predict churning. | Python, SciPy, statsmodels, scikit-learn | 
+| **6. Machine Learning** | Fitting, Evaluation, and Comparing xgboost and Random Forest models | Python, scikit-learn, xgboost | 
 <!-- | **5. Capstone: Real-World Business Case** | End-to-end project applying the data science process on a real-world dataset. Includes problem scoping, EDA, modeling, and presenting insights. | Python, SQL, Jupyter Notebook, ML |  -->
 
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Toolbox:
 
 - **Programming**: Python 
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Statsmodels, SciPy  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, scikit-learn, xgboost
 - **Environments**: Jupyter Notebooks, Google Colab  
 - **Other Tools**: Tableau (not in this very project)
 
