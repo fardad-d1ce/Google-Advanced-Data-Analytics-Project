@@ -1,6 +1,6 @@
 # 📊 Google Advanced Data Analytics Portfolio
 
-Welcome to my portfolio repository! This collection features all the hands-on projects I completed as part of the **Google Advanced Data Analytics Certificate**. Each project demonstrates applied skills in data cleaning, analysis, machine learning, and visualization using Python, SQL, and modern data tools.
+Welcome to my portfolio repository! This collection features some of the hands-on projects I completed as part of the **Google Advanced Data Analytics Certificate**. Each project demonstrates applied skills in data cleaning, analytics, machine learning, and visualization via severa Python packages, e.g. matplotlib, seaborn, statsmodels, scikit-learn, xgboost, etc.
 
 ---
 
